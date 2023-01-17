@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=burakyalim&show_icons=true&theme=dark" />
-<img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyalim" />
-
-
-
-
-
+<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=burakyalim&show_icons=true&theme=dark" />
+<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyalim" />
 
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
