@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Burak YALIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakyalim&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyalim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
