@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" src="https://github.com/burakyalim/mypictures/blob/master/hello.gif"><br><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github.com/burakyalim/mypictures/blob/master/hello.gif"><br><br><br><br><br><br><br><br><br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyalim)](https://github.com/burakyalim/github-readme-stats)
 
