@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyalim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github.com/burakyalim/mypictures/blob/master/hello.gif"><br><br><br><br><br><br><br><br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyalim)](https://github.com/burakyalim/github-readme-stats)
 
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
