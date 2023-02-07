@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://github.com/burakyalim/mypictures/blob/master/hello.gif"><br><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github.com/burakyalim/mypictures/blob/master/hello.gif"><br><br><br><br><br><br><br><br><br><br>
 <p>Welcome to my GitHub profile! I am Burak. I live in Antalya in Turkey. I am a graduate of the Electrical and Electronic Engineering program at Pamukkale University.  I am developing myself in the field of software development. I share my knowledge, projects and developed work here. You can follow me and support my work.</p>
 
 ### Most Used Languages
